@@ -1,0 +1,24 @@
+{
+  "name": "html-css-core",
+  "version": "1.0.0",
+  "description": "growup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RemyJS/html-css-core.git"
+  },
+  "keywords": [
+    "growup",
+    "epam",
+    "selfeducation"
+  ],
+  "author": "remyjs <a.king92@mail.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RemyJS/html-css-core/issues"
+  },
+  "homepage": "https://github.com/RemyJS/html-css-core#readme"
+}
